@@ -1,0 +1,536 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tables of the universal character so contrived that the practice of them exceed's all former wayes of short hand writing, and are applicable to all languages.</title>
+            <author>Dalgarno, George, 1626?-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21021</idno>
+            <idno type="STC">Wing D130</idno>
+            <idno type="EEBO-CITATION">99825692</idno>
+            <idno type="PROQUEST">99825692</idno>
+            <idno type="VID">206668</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21021)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206668)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1792:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tables of the universal character so contrived that the practice of them exceed's all former wayes of short hand writing, and are applicable to all languages.</title>
+                  <author>Dalgarno, George, 1626?-1687.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Leonard Lichfield,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Format and imprint information from Madan.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shorthand --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="table">
+            <pb facs="tcp:206668:1" rendition="simple:additions"/>
+            <head>TABLES OF THE VNIVERSAL CHARACTER So contrived, that the practice of them exceed's all former wayes of short hand writing, and are applicable to all languages.</head>
+            <p>
+               <table>
+                  <head>THE TABLE OF PARTICLES,</head>
+                  <row>
+                     <cell role="label">Before the character</cell>
+                     <cell role="label">after</cell>
+                     <cell role="label">above</cell>
+                     <cell role="label">under</cell>
+                  </row>
+                  <row>
+                     <cell>1. Ego tu ille</cell>
+                     <cell>me te illum</cell>
+                     <cell>praet. praeſ. futurum</cell>
+                     <cell>paſſivum &amp; non</cell>
+                  </row>
+                  <row>
+                     <cell>2. Nos vos illi</cell>
+                     <cell>nos vos illos</cell>
+                     <cell>plurale genitiv. dativ.</cell>
+                     <cell>ideo quia quaſi</cell>
+                  </row>
+                  <row>
+                     <cell>3. Hoc illud aliud</cell>
+                     <cell>hoc illud aliud</cell>
+                     <cell>poſſum debeo oportet</cell>
+                     <cell>nam niſi ne</cell>
+                  </row>
+                  <row>
+                     <cell>4. Uterque reliqui ſolus</cell>
+                     <cell>utrumque reliquos ſolum</cell>
+                     <cell>imperat. utinam licet</cell>
+                     <cell>quod ſi quamvis</cell>
+                  </row>
+                  <row>
+                     <cell>5. Unuſquiſque alius neuter</cell>
+                     <cell>unumquemque alium neutrum</cell>
+                     <cell>hic illic alibi</cell>
+                     <cell>ſed tamen cum</cell>
+                  </row>
+                  <row>
+                     <cell>6. Omnes aliquis nullus</cell>
+                     <cell>omnes aliquem nullum</cell>
+                     <cell>ubique alicubi nuſquam</cell>
+                     <cell>ſic ut ſicut</cell>
+                  </row>
+                  <row>
+                     <cell>7. Omnia aliquid nihil</cell>
+                     <cell>omnia aliquid nihil</cell>
+                     <cell>ſurſum directe deorſum</cell>
+                     <cell>primo deinde denique</cell>
+                  </row>
+                  <row>
+                     <cell>8. Quis qualis talis</cell>
+                     <cell>bene mediocriter male</cell>
+                     <cell>antrorſum à latere retrorſum</cell>
+                     <cell>partim dimidium potius</cell>
+                  </row>
+                  <row>
+                     <cell>9. Ubi unde quo</cell>
+                     <cell>fere praecipue perfecte</cell>
+                     <cell>ſupra praeter infra</cell>
+                     <cell>omnino quodammodo praeterea</cell>
+                  </row>
+                  <row>
+                     <cell>10. Quid quare qua</cell>
+                     <cell>certe poſſibile impoſſibile</cell>
+                     <cell>extra intra undequaque</cell>
+                     <cell>uſque vix proxime</cell>
+                  </row>
+                  <row>
+                     <cell>11. Quando quamdiu quouſque</cell>
+                     <cell>facile difficile fruſtra</cell>
+                     <cell>ſimul juxta procul</cell>
+                     <cell>tam quam ſecundum</cell>
+                  </row>
+                  <row>
+                     <cell>12. Quantum quomodo quam</cell>
+                     <cell>forte probabile falſum</cell>
+                     <cell>contra inter circum</cell>
+                     <cell>aut neque donec</cell>
+                  </row>
+                  <row>
+                     <cell>13. Quot quotus quoties</cell>
+                     <cell>contingens conveniens neceſſe</cell>
+                     <cell>citra apud ultra</cell>
+                     <cell>hucuſque adhuc quoque</cell>
+                  </row>
+                  <row>
+                     <cell>14. Tot toties tantum</cell>
+                     <cell>nunc tunc tandem</cell>
+                     <cell>per de pro</cell>
+                     <cell>heri hodie cras</cell>
+                  </row>
+                  <row>
+                     <cell>15. Solum ſatis nimis</cell>
+                     <cell>iterum brevi diu</cell>
+                     <cell>in cum ſine</cell>
+                     <cell>raro ſaepe ſemper</cell>
+                  </row>
+                  <row>
+                     <cell>16. Cito opportune tarde</cell>
+                     <cell>coram publice privatim</cell>
+                     <cell>ſuper ab ex</cell>
+                     <cell>magnum parum multum</cell>
+                  </row>
+                  <row>
+                     <cell>17. Statim aliquando nunquam</cell>
+                     <cell>aliter particulariter Univerſaliter</cell>
+                     <cell>ante penes poſt</cell>
+                     <cell>valde magis maxime</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Derivatives</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>18. Facere, actio, Infinitivus,</cell>
+                     <cell>actor ſubſtantiv. activ. ſub. paſſ.</cell>
+                     <cell>adjectiv. neutrum. adject. act. adj. paſſ.</cell>
+                     <cell>abſtractum, adverbium, potentia<g ref="char:punc">▪</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>19. Officiu<g ref="char:cmbAbbrStroke">̄</g>, Incipio, genus faemininum,</cell>
+                     <cell>Inſtrumentum, tempus, locus agendi</cell>
+                     <cell>membrum, veſtis, fructus</cell>
+                     <cell>ars, vox animalis, morbus,</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">The TABLE of Radicall verbs and adjectives</cell>
+                     <cell role="label">CONTRARIES</cell>
+                  </row>
+                  <row>
+                     <cell role="label">1. Ego</cell>
+                     <cell role="label">1. Ego</cell>
+                  </row>
+                  <row>
+                     <cell>6. When I <hi>ſit down</hi> upon a <hi>hie place,</hi> I'm <hi>ſick</hi> with <hi>light</hi> and <hi>heat</hi>
+                     </cell>
+                     <cell>Riſe up, lowe, diſplace, whole, darke, cold,</cell>
+                  </row>
+                  <row>
+                     <cell>12. For the <hi>many thick moiſtures,</hi> doe <hi>open wide</hi> my <hi>Emptie</hi> pores</cell>
+                     <cell>F. few, thin, drie, ſhut, narrow, full,</cell>
+                  </row>
+                  <row>
+                     <cell>18. But when I <hi>ſit</hi> upon a <hi>ſtrong borrowed</hi> Horſe, I <hi>ride</hi> and <hi>run</hi> moſt <hi>ſwiftly</hi>
+                     </cell>
+                     <cell>B. ſtand, weake, lend, goe on foot, walke, ſlowe,</cell>
+                  </row>
+                  <row>
+                     <cell>24. Therefore if I can <hi>purchaſe</hi> this <hi>courteſie</hi> with <hi>civilitie,</hi> I <hi>care</hi> not the <hi>hirers barbaritie</hi>
+                     </cell>
+                     <cell>T. poſſeſſe, froward, rude, neglect, eloquent,</cell>
+                  </row>
+                  <row>
+                     <cell>30. Becauſe I'm <hi>perſwaded</hi> they are <hi>wild villains, ſcornfully deceiving modeſt</hi> men</cell>
+                     <cell>B. diſſwade, tame, ſerious, laſcivious,</cell>
+                  </row>
+                  <row>
+                     <cell>36. Nevertheleſſe I <hi>allowe</hi> their <hi>frequent wrongs,</hi> and will <hi>encourage</hi> them with <hi>obliging exhortations</hi>
+                     </cell>
+                     <cell>N. diſſallow, rare, diſcourage, diſobliedge, rebuke</cell>
+                  </row>
+                  <row>
+                     <cell>42. Moreover I'l <hi>aſſiſt</hi> them to <hi>fight</hi> againſt <hi>robbers,</hi> when I <hi>have</hi> my <hi>long crooked</hi> ſword.</cell>
+                     <cell>M. reſiſt, at peace, want, ſhort, ſtraight.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">2. Tu</cell>
+                     <cell role="label">2. Tu</cell>
+                  </row>
+                  <row>
+                     <cell>6. <hi>Worthie friend</hi> be <hi>entreated,</hi> to <hi>extoll religion</hi> and <hi>holynes</hi>
+                     </cell>
+                     <cell>Unworthie enemie, threaten, abaſe, ſuperſtitious, prophane,</cell>
+                  </row>
+                  <row>
+                     <cell>12. F. <hi>true vertue</hi> being <hi>found giveth</hi> a <hi>rich bleſſing</hi>
+                     </cell>
+                     <cell>F. falſe, vitious, ſeeke, receive, poore, curſe,</cell>
+                  </row>
+                  <row>
+                     <cell>18. B. your <hi>courage concealed</hi> in a <hi>priſon, provokes flyers</hi> to <hi>purſue</hi> you</cell>
+                     <cell>B. coward, tell, ſett at liberty, pacifie, follow, defend,</cell>
+                  </row>
+                  <row>
+                     <cell>24. T. <hi>hold firme</hi> your <hi>victory,</hi> againſt the <hi>heavie burdens</hi> of <hi>deſpaire</hi>
+                     </cell>
+                     <cell>T. let goe, inſtable, yeeld, light, disburden, hope,</cell>
+                  </row>
+                  <row>
+                     <cell>30. B. the <hi>great ſufferings</hi> of <hi>miſery, kills wicked ſervants</hi>
+                     </cell>
+                     <cell>B. ſmall, doe, proſperous, quicken, godlie, free,</cell>
+                  </row>
+                  <row>
+                     <cell>36. N. you may <hi>conſtantly ſell deare,</hi> and <hi>continue</hi> ſtill your <hi>idle queſtions</hi>
+                     </cell>
+                     <cell>N. unconſtant, buy, cheap, leave of worke, anſwere</cell>
+                  </row>
+                  <row>
+                     <cell>42. M. you may <hi>remarke</hi> how <hi>chaſt</hi> virgins <hi>conceive,</hi> and <hi>afflict ſleeping</hi> men with <hi>nakednes.</hi>
+                     </cell>
+                     <cell>M. unchaſt, bring forth, comfort, wake, cloathe.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">3. Ille</cell>
+                     <cell role="label">3. Ille</cell>
+                  </row>
+                  <row>
+                     <cell>6. A <hi>wyſe teacher knowes,</hi> what he <hi>affirmes</hi> and <hi>underſtand's</hi> what he <hi>remembers</hi>
+                     </cell>
+                     <cell>Foole, learne, doubt, denie, ignorant, forget,</cell>
+                  </row>
+                  <row>
+                     <cell>12. F. he <hi>chooſeth</hi> rather to <hi>ſpeake propheſies,</hi> then to <hi>pleaſe angry lovers</hi>
+                     </cell>
+                     <cell>F. reject, dumb, come to paſſe, offend, content, hate,</cell>
+                  </row>
+                  <row>
+                     <cell>18. B. when he <hi>heares</hi> and <hi>ſees clearly,</hi> they have <hi>promiſed</hi> to <hi>honour</hi> and <hi>thanke him</hi>
+                     </cell>
+                     <cell>B. deafe, blind, obſcure, performe, dishonour, unthankfull,</cell>
+                  </row>
+                  <row>
+                     <cell>24. T. he therefore <hi>abſolves</hi> them from <hi>falſe accuſations,</hi> and <hi>praiſes</hi> their <hi>flouriſhing innocency</hi>
+                     </cell>
+                     <cell>T. condemne, excuſe, diſpraiſe, wither, guilty,</cell>
+                  </row>
+                  <row>
+                     <cell>30. B. <hi>hard beginnings</hi> of <hi>good, begett</hi> a <hi>lively growth</hi>
+                     </cell>
+                     <cell>B. ſoft, end, ill, corrupt, die, decreaſe,</cell>
+                  </row>
+                  <row>
+                     <cell>36. N. he <hi>commanded preſently</hi> to <hi>bind</hi> them, and <hi>lead</hi> them away and <hi>hang</hi> and <hi>burn</hi> them</cell>
+                     <cell>N. obey, abſent, looſe, drawe, drowne, ſmoake,</cell>
+                  </row>
+                  <row>
+                     <cell>42. M. he <hi>puniſhed</hi> them ſo with <hi>hunger</hi> and <hi>thirſt,</hi> that they <hi>cryed</hi> out <hi>eating</hi> is <hi>ſweet.</hi>
+                     </cell>
+                     <cell>M. ſpare, full, drinke, ſilent, faſt, ſoure.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">4. Nos</cell>
+                     <cell role="label">4. Nos</cell>
+                  </row>
+                  <row>
+                     <cell>6. We'l <hi>call</hi> this <hi>old mad</hi> man, and <hi>tickle</hi> him till he <hi>fart</hi> for <hi>laughter</hi>
+                     </cell>
+                     <cell>Appeare, young, ſottiſh, pricke, belch, weep,</cell>
+                  </row>
+                  <row>
+                     <cell>12. F. the <hi>pleaſant mirth</hi> of <hi>itching,</hi> will make him <hi>ſcratch</hi> his <hi>white ſnowie</hi> beard</cell>
+                     <cell>F. unpleaſant, ſad, ſore, rubbe, black, haile,</cell>
+                  </row>
+                  <row>
+                     <cell>18. B. <hi>ſharp byting wounds,</hi> will <hi>bury</hi> his <hi>luſtfull deſires</hi>
+                     </cell>
+                     <cell>B. blunt, licke, cure, digge, covet,</cell>
+                  </row>
+                  <row>
+                     <cell>24. T. we'll <hi>feed</hi> his <hi>lean barren</hi> corps, with <hi>freſh ſavoury dinners</hi>
+                     </cell>
+                     <cell>T. poyſon, fat, fertile, rotten, unſavory, ſuppe,</cell>
+                  </row>
+                  <row>
+                     <cell>30. B. <hi>filthie ſtinking roaſts, move</hi> him <hi>fall</hi> a <hi>vomiting</hi>
+                     </cell>
+                     <cell>B. cleane, odoriferous, boyle, reſt, ſtand, ſpit,</cell>
+                  </row>
+                  <row>
+                     <cell>36. N. we'l <hi>penetrate</hi> him with <hi>fearfull thunder,</hi> and <hi>kindle unhappy flames</hi> in him</cell>
+                     <cell>N. dare, lighten, quench, happy, ſparkle,</cell>
+                  </row>
+                  <row>
+                     <cell>42. M. we'l <hi>prove</hi> he <hi>divorced</hi> his wife for <hi>dancing,</hi> and <hi>inchanted</hi> her to <hi>refuſe</hi> his <hi>kindnes.</hi>
+                     </cell>
+                     <cell>M. improve, marry, play, coniure, graunt, unkind.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">5. Vos</cell>
+                     <cell role="label">5. Vos</cell>
+                  </row>
+                  <row>
+                     <cell>6. You <hi>vile breathleſſe lyers, conſider</hi> your <hi>wicked cuſtomes</hi>
+                     </cell>
+                     <cell>Pretious, ſtrangle, ſpeake, true, raſh, godly, unaccuſtome,</cell>
+                  </row>
+                  <row>
+                     <cell>12. F. you <hi>bowe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>own</hi> with <hi>deep groanings,</hi> when you <hi>uſe</hi> your <hi>flattering ſalutations</hi>
+                     </cell>
+                     <cell>F. lift up, ebbe, ſigh, abuſe, valedico,</cell>
+                  </row>
+                  <row>
+                     <cell>18. B. you <hi>contradict</hi> the <hi>compariſons</hi> of <hi>honeſt</hi> men, and <hi>vilipend</hi> their <hi>skilfull corrections</hi>
+                     </cell>
+                     <cell>B. conſent, unhoneſt, eſteeme, unskilfull, fault,</cell>
+                  </row>
+                  <row>
+                     <cell>24. T. your <hi>ſeed</hi> ſhall be <hi>perfectly excluded,</hi> and your <hi>names blotted out</hi> from <hi>inheritance</hi>
+                     </cell>
+                     <cell>T. reap, imperfect, containe, nickname, diſinherit</cell>
+                  </row>
+                  <row>
+                     <cell>30. B. you <hi>meaſure</hi> the <hi>creation</hi> by <hi>diviſion,</hi> and <hi>hyde</hi> the <hi>world</hi> with <hi>coverings</hi>
+                     </cell>
+                     <cell>B. weigh, annihilate, deſcribe, ſhew, ſquare, diſcover,</cell>
+                  </row>
+                  <row>
+                     <cell>36. N. the very <hi>deſpiſed ſhadowe</hi> of your <hi>comb,</hi> ſhall be <hi>accepted</hi> with <hi>ſweating kiſſes</hi>
+                     </cell>
+                     <cell>N. reſpect, ſhine, bruſh, reject, faint, embrace,</cell>
+                  </row>
+                  <row>
+                     <cell>42. M. your <hi>wilfully enſnaring witneſſes,</hi> ſhall be <hi>ſhot</hi> through with a <hi>rough plough.</hi>
+                     </cell>
+                     <cell>M. unwilling, deliver, atteſt, bend, plaine, harrow.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">6. Illi</cell>
+                     <cell role="label">6. Illi</cell>
+                  </row>
+                  <row>
+                     <cell>6. <hi>Thriftie</hi> men <hi>paint</hi> their <hi>buildings,</hi> only with <hi>greaſie blew</hi> and <hi>red</hi>
+                     </cell>
+                     <cell>Prodigall, print, caſt downe, browne, yellow, green,</cell>
+                  </row>
+                  <row>
+                     <cell>12. F. by the <hi>equality</hi> of this <hi>order,</hi> they <hi>take away</hi> the <hi>joynings</hi> where the <hi>raine poures in</hi>
+                     </cell>
+                     <cell>F. unequal, diſorder, adde, diſjoyne, blowe, poure out,</cell>
+                  </row>
+                  <row>
+                     <cell>18. B. yet the <hi>power</hi> of the <hi>froſt</hi> is ſo <hi>nimble,</hi> that it <hi>impudently breakes</hi> downe their <hi>baking</hi> houſes</cell>
+                     <cell>B. unpowrfull, melt, wearie, baſhfull, cut, brew,</cell>
+                  </row>
+                  <row>
+                     <cell>24. T. they <hi>agree</hi> to <hi>ſpend cruelly,</hi> before the <hi>tempeſts tumble</hi> downe their place of <hi>worſhip</hi>
+                     </cell>
+                     <cell>T. win, mild, calme, ſlide,</cell>
+                  </row>
+                  <row>
+                     <cell>30. B. they would <hi>vindicate</hi> the <hi>fitneſſe</hi> of <hi>baptiſme,</hi> from <hi>undiſcreet</hi> and <hi>ſevere ſolitarineſs</hi>
+                     </cell>
+                     <cell>B. impure, unfit, circumciſe, diſcreet, meek, accompanie,</cell>
+                  </row>
+                  <row>
+                     <cell>36. N. they <hi>keep</hi> themſelves <hi>unjuſtly armed,</hi> to <hi>hurt ſincere undertakings</hi>
+                     </cell>
+                     <cell>N. loſe, juſt, diſarme, diſſemble faile,</cell>
+                  </row>
+                  <row>
+                     <cell>42. M. they <hi>force ſwimmers</hi> to <hi>admiration,</hi> by <hi>taking</hi> their <hi>beautifull ſailes</hi> from them.</cell>
+                     <cell>M. flie, aſtoniſh, leave, deformed, rowe,</cell>
+                  </row>
+               </table>
+            </p>
+            <pb facs="tcp:206668:2" rendition="simple:additions"/>
+            <p>Radicall Characters, by the rule of derivatives. I ſhall ſubjoyne the particu<g ref="char:EOLhyphen"/>lar rules only in ſo many words referring the explication of them and ex<g ref="char:EOLhyphen"/>amples to be done <hi>viva voce.</hi>
+            </p>
+            <p n="1">1. Perſons and particles of Univerſallity and Particularity have places both before and after the radicall Character, for diſtinguiſhing them when they are agents, and when they are patients.</p>
+            <p n="2">2. Affixes of perſons are rendred perſonally with verbs, &amp; as poſſeſſives with nouns.</p>
+            <p n="3">3. The compound pronouns which <hi>(ipſe)</hi> are expreſſed by twice writing the affixe of the ſimple, whether perſon or poſſeſſive.</p>
+            <p n="4">4. Thoſe particles which end in (ever) in Engliſh, and <hi>(cunque)</hi> in Latine, are alſo expreſſed by twice writing the ſimple affixe.</p>
+            <p n="5">5. If two ſimple points of affixe come ſo to be written, that they expreſſe two ſeverall particles they are to be ſet at a little more diſtance one from ano<g ref="char:EOLhyphen"/>ther, then they are ſet in the ſecond place of affixes, where they expreſſe both but one ſingle notion.</p>
+            <p n="6">6. Adverbs of motion, from, or to a place, are expreſſed by the adverb of reſt, in place, and the particles (from) and (to).</p>
+            <p n="7">7. In verbs expreſſing action or paſſion, there is no neceſſity of adding the affixe of the preſent tyme: but let it bee taken for rule, that thoſe verbs writ<g ref="char:EOLhyphen"/>ten without any affixe of tyme are underſtood to bee of the preſent tyme.</p>
+            <p n="8">8. Where nouns come to be coupled together without any other verb, but the ſubſtantive verb (ſum) for the more compendiouſneſſe, the verb (ſum) may be expreſſed by the affixes of tyme, unleſſe it be in propoſitions of <hi>(eſt) ſecundi adjacentis,</hi> or ſome other few places, in which the radicall Cha<g ref="char:EOLhyphen"/>racter of the verb (ſum) may be made uſe of.</p>
+            <p n="9">9 Thoſe particles which ſignify <hi>adverbialiter</hi> with verbs, being affixed with ſubſtantives they ſignify <hi>adjectively,</hi> ſuch as <hi>bene, male, praecipue, <g ref="char:V">Ʋ</g>niverſaliter,</hi> &amp;c.</p>
+            <p n="10">10. The notion of (to goe) or (to come) are expreſſed, the firſt by a quadrangle, the other by a, triangle, the reaſons I can not enlarge here.</p>
+            <p n="11">11. For reading any thing that is written in this Character, it is required firſt that the Table of Particles and Derivatives be perfectly underſtood, and had by heart; then let it be conſidered, whether the radicall Character be a noune or verb, primitive or derivative, and if it be a verb, what tyme it's of, if it have perſons before, or after it, what the notions of the other particles are affixed about it: which all being underſtood, the ſenſe of the whole will imme<g ref="char:EOLhyphen"/>diately appeare: where it may be obſerved, that for the moſt part conjunctions are allwaies firſt read, adverbs or Logicall <hi>modi</hi> may be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead either firſt or laſt, &amp; yet the ſenſe ſtand intire; the expreſſion whereof is all here required: but a little practice will ſhew that there can ſcarce be error in reading, un<g ref="char:EOLhyphen"/>leſſe there be error firſt in writing.</p>
+            <p n="12">12. If two or three particles come to be expreſſed with one vew, which virtually &amp; logically makes more the one propoſition then the ſentence is ei<g ref="char:EOLhyphen"/>ther to be expreſſed logically by man writing the radicall Character, &amp; every one of them it's proper affixes, otherwiſe if the Character before contra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tions cauſe, but once writte<g ref="char:cmbAbbrStroke">̄</g>, then the particle firſt to be read is ſet neereſt the Cha<g ref="char:EOLhyphen"/>racter <hi>&amp;c.</hi> e g l love you but not him, this is Logically reſolved I love you, but I love not him <hi>&amp;c.</hi>
+            </p>
+            <p>Prepoſitions governing perſons after verbs are to be ſet over the verb in their own place, and if there be two perſons after the verb, to wit one governed by it ſelf, and another by the prepoſition, that which is gover<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by the prepoſition, is to be ſet at a little farther diſtance fro<g ref="char:cmbAbbrStroke">̄</g> the Character.</p>
+            <p>I am neceſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tated in reſpect of the narrow compaſſe of this ſheet, whereunto I have confined my ſelf to paſſe over the Table of Derivatives, without ex<g ref="char:EOLhyphen"/>plication, as alſo many other uſefull obſervations.</p>
+            <div type="part">
+               <head>Of the Table of Radicall Characters.</head>
+               <p>THis Table is divided into the Table of Verbs and Adjectives, &amp; the Ta<g ref="char:EOLhyphen"/>ble of Subſtantives: for underſtanding of the art and uſe of both, let it be obſerved.</p>
+               <p>Every particular table containes fourty two words, expreſſing ſo many ſeverall diſtinct notions of things, (which this deſigne only conſiders with<g ref="char:EOLhyphen"/>out reſpect to ſynonymous words.)</p>
+               <p>For helping of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emory to retaine theſe words, and render them readi<g ref="char:EOLhyphen"/>ly by the Character, there is a ſtory made up to couple them together, either by way of ſenſe, or no ſenſe, which ſomtimes is moſt helpfull to the memory: This ſtory is divided in ſeven parts, to wit 1. a ſimple narration, 2. a conti<g ref="char:EOLhyphen"/>nuance of the ſtory by the particle, (for) 3. (but,) 4. (therefore,) 5. (becauſe,) &amp; becauſe variety is very operative upon the memory, the two laſt particles which are (nevertheleſſe) and (moreover,) give a quite contradiction, to what hath been ſpoken in the former part of the ſtory, and this method is conſtantly obſerved thorowout the whole Tables. Again thoſe ſeven parts of the ſtory ſo diſtinguiſhed, are contained in ſeven lines, whereof every one containes ſix words, and thoſe again ſo compoſed among themſelves, that three of them goe allwayes together by way of ſenſe; Thoſe words expreſſed in the Italicke Character, are but only expletive particles, for binding the words belonging to the tables together, for helping the memory.</p>
+               <p>One of the great advantages of this art, is the expreſſing of all contraries by one uniforme rule, without any charge upon the memory: the rule is, <hi>When the Character of the one contrary is had in the Tables, the other contrary is allwayes expreſſed by that ſame Character, with a ſingle point put within it:</hi> thoſe contraries which are to be expreſſed with a ſingle point added to the Cha<g ref="char:EOLhyphen"/>racter of it; contrary in the ſtories, are ſet e <hi>diametro</hi> oppoſite, to their owne contraries expreſſed in the ſtory. Where it is to be obſerved, that I have not taken contraries allwayes from contrariety of nature, but from any ground of contradiſtinction, which might help the memory, this being all I intend.</p>
+               <p>And it is to bee obſerved, that the order of the ſeverall heads of the ſtories are carried on by the order of the particles of affixes, before the Character, that is the firſt ſtory being made up in the firſt perſon: The ſecond in the ſecond perſon: The third in the third <hi>&amp;c.</hi> The advantage of this is, the Charact<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r anſwering uniformly, by a numericall progreſſion to this method, of th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rall ſtories, he who hath any notion of the ſtory, ſo that he can referre any word either to the ſtory of <hi>ego tu ille &amp;c.</hi> immediately he hath the Character it is to be written with. For it is again to be obſerved, That one Character carrieth out the fourty two words of every table, by fourty two ſeverall diſtinct points of numeration which are affixed upon it, whereof all the characters I make uſe of, are equally capable: the way of doing whereof I referre to actuall ex<g ref="char:EOLhyphen"/>plication, ſeing the Character muſt be ſet down with my owne hadd.</p>
+               <p>Briefly then for the attaining the perfect uſe of theſe tables: firſt the numeri<g ref="char:EOLhyphen"/>call way of the Character is to be learned, then the ſeven cardinall points of numeration upon the Character, anſwerable to the ſeven parts of every ſtory: the ſeven diſtinguiſhing particles of the ſtory are to be gotten by heart as they anſwere to the cardinall points of numeratio<g ref="char:cmbAbbrStroke">̄</g> upon the character; which by any of common capacity can upon a ſimple explication of the way be fully com<g ref="char:EOLhyphen"/>prehended and taken. And this being once rightly underſtood carries out the whole deſigne; for the method of the tables amongſt themſelves, and the me<g ref="char:EOLhyphen"/>thod of the diſtinguiſhing particles of the particular Tables (which is that ſame in all) being rightly underſtood and attained, there needs no more for doing all this deſigne is capeable of, but to get exactly by heart thoſe me<g ref="char:EOLhyphen"/>morialls of the ſeverall tables, which are compoſed by way of fictitious and fooliſh ſtories, which are apt to ſticke more upon the memory then that which carries more ſenſe and ſeriouſnes with it. This being all then that is requiſite for practiſing this art, to underſtand firſt the rules which are few, plaine, and eaſy, and then to get thoſe few ſtories by heart; I am bold to af<g ref="char:EOLhyphen"/>firme, that any man Indifferenly judicious and diligent, ſhould be able both to write and read in this character in any ſubject ſo farre as the Tables will reach, in a week's tyme without the help of Tables ſet before him but ſimply, with the help of the memory. This I know will ſeem a thing impoſſible to many, but I hope experience ſhall confirme the truth of it.</p>
+               <p>It is to be obſerved, that all thoſe words in the table of verbs and adjectives which are expreſſed in the ſtories either as ſubſtantives or adverbs, which is done only for the more conveniency of making up the ſtories, are to be taken radically for verbs, and adjectives, according as the nature of the notion is: ſo in the table of ſubſtantives all thoſe words expreſſed in an Italick letter, are radically to be taken as ſubſtantives.</p>
+               <p>Then let it be obſerved that my main deſigne being to carry forth the co<g ref="char:cmbAbbrStroke">̄</g>mo<g ref="char:cmbAbbrStroke">̄</g> notions and conceptions of the minde, in the ordinary intercourſe of man<g ref="char:EOLhyphen"/>kind, if my Tables be not ſo full and comprehenſive as many may judge they ſhould bee; I give for a farther explication thoſe following conſiderations, to be ſeriouſly weighed by the more judicious and learned 1. The nature of this deſigne as it is intended for a common help &amp; remedy of the imperfection &amp; difficulty of the languages of all nations, (which is the chief and grand im<g ref="char:EOLhyphen"/>pediment that ſtops the familiar intercourſe, commerce and mutuall communi<g ref="char:EOLhyphen"/>cations between the people of ſeverall nations:) requires only the expreſſion of thoſe notions and things, which are that ſame in all nations; ſo that the particular ceremonies, cuſtomes, and technick words of particular nations and languages fall not properly within the compaſſe of it, for if any notions of things proper to any particular nation ſhould be expreſſed in other na<g ref="char:EOLhyphen"/>tions, they behooved to learn the nature of the thing, as well as the word or Character expreſſing it 2. thoſe common notions, neceſſary for making up diſ<g ref="char:EOLhyphen"/>courſe in all ordinary intercourſe, conſiſting chieffely of particles which are <hi>ligaturae orationis,</hi> coupling and binding together the radicall and principall parts of ſpeech, and varying the formality of it, and verbs and adjectives by which are expreſſed the qualities of things, actions, and paſſions of the minde, motions, transaction of affaires <hi>&amp;c.</hi> I hope there ſhall be ſcarce any ſimple no<g ref="char:EOLhyphen"/>tions of particles, and very few of verbs and adjectives found to be omitted. 3. I acknowledge the chief defect of my Tables will be in ſubſtantives: for I did ſtrive only at the preſent to pitch upon thoſe, which were moſt obvious and occurrent in ordinary diſcourſe, as tranſcendent words, relations, mem<g ref="char:EOLhyphen"/>bers of the body <hi>&amp;c</hi> 4. I dare promiſe, that by adding foure or five more Ta<g ref="char:EOLhyphen"/>bles compoſed in ſtories, (which God willing ſhall ſhortly be done) this de<g ref="char:EOLhyphen"/>ſigne ſhall be able to reach farther in communication and diſcourſe then the moſt part of languages. 5. I deſire it may be conſidered, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat my intention being to expreſſe things and not the words of any Language; I take of that irratio<g ref="char:EOLhyphen"/>nality of all Languages of uſing many tymes multitudes of ſynonimous words for expreſſing that ſame thing. 6. It is worthie of obſervation by the learned, that beſide that principall intended uſe of this deſigne, of facilitating the matter of language and communication, there are other choice advantages to be reaped by it as chieffely, the practice of it teaches a man to abſtract from the particular phraſes of languages, which many tymes logically conſidered, are impertinencies and non ſenſe, and to compoſe and expreſſe his thoughts in a plaine and rationall method, and (as I had it from an eminently learned perſon) it makes a man as it were dip his pen in his ſoul, before he deliver his thoughts: for it is the complaint of many learned men, that Rhetoricall flouriſhes of words doe often obſcure beſt literature, and what ſtrife hath been in the world meerly about words, is a thing too we'll known. 7. If the ſynonimous words of languages ſignifying that ſame ſimple notion, were col<g ref="char:EOLhyphen"/>lected and ranked together, (which for the uſe of weaker capacities is ne<g ref="char:EOLhyphen"/>ceſſary and ſhall be done hereafter:) The extent of theſe Tables will appeare to reach a great length in communication. 8. This deſigne being chiefly in<g ref="char:EOLhyphen"/>tended for common intercourſe as is ſaid before, it is not to bee expected that it ſhall containe the numberleſſe multitude of the ſeverall <hi>ſpecies</hi> of nature and words of art &amp; techinck words of all trades, for this no language is able to doe, nor no one man able to underſtand, but thoſe who would have thoſe reduced to an artificiall way of expreſſion, muſt make particular tables for every art and trade, which they muſt doe in all languages, notwithſtanding there ſhall bee as many of the moſt common <hi>ſpecies</hi> of nature here expreſſed, as any lan<g ref="char:EOLhyphen"/>guage is able to doe without <hi>Periphraſes.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
